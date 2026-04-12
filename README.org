@@ -1,0 +1,9 @@
+The idea of using what I've come to think of as the "Guile Chil(d)", the child in a gnu costume drawn in a series of illustrations in 2015 by Luis Felipe López Acevedo[0] and used on the front-page of the Guile website[1], in combination with the Sway logo, swinging on one of the branches of the Sway tree (making it sway?) like Max in his wolf costume in that one illustration[2] in Maurice Sendak's /Where the Wild Things Are/[3] (which I assume may have been one of the influences on López Acevedo's Guile Chil(d) illustrations).
+
+[0]: https://codeberg.org/luis-felipe/guile-graphics/src/branch/trunk/drawings
+
+[1]: https://www.gnu.org/software/guile/
+
+[2]: https://committingsociology.com/wp-content/uploads/2015/08/where-the-wild-things-are-3.jpg
+
+[3]: https://en.wikipedia.org/wiki/Where_the_Wild_Things_Are
