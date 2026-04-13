@@ -3,6 +3,6 @@ The idea struck me of using what I've come to think of as the "Guile Chil(d)",[[
 [[guile-swayer.png]]
 
 #+ATTR_HTML: :id fn1
-[†:] I prefer something like Guile Chile, because it rhymes: [ɡaɪl t͡ʃaɪl]. (On *chile*, see [[https://en.wiktionary.org/wiki/chile#Etymology_2][Wiktionary, etymology 2]]).]
+[†:] I prefer something like Guile Chile, because it rhymes: [ɡaɪl t͡ʃaɪl]. (On *chile*, see [[https://en.wiktionary.org/wiki/chile#Etymology_2][Wiktionary, etymology 2]].)
 
 
