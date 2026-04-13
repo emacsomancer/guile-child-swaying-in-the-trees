@@ -2,5 +2,8 @@ The idea struck me of using what I've come to think of as the "Guile Chil(d)",[[
 
 [[guile-swayer.png]]
 
-#+CUSTOM_ID: fn1
+##+begin_html
+<a id="fn1" class="anchor" aria-hidden="true" href="#fn1></a>
 [†:] I prefer something like Guile Chile, because it rhymes: [ɡaɪl t͡ʃaɪl]. (On *chile*, see [[https://en.wiktionary.org/wiki/chile#Etymology_2][Wiktionary, etymology 2]]).]
+#+end_html
+
